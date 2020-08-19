@@ -1,3 +1,10 @@
+---
+title: How Http Evolved Via Rfc
+tags: http,fromMd
+slug: how-http-evolved-via-rfc
+intro: from md Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+---
+
 ### Timelines:
 * Nov 1989 : The Point-to-Point Protocol: A Proposal for Multi-Protocol Transmission of Datagrams Over Point-to-Point Links (https://tools.ietf.org/html/rfc1134)
 * July 1990 : The Point-to-Point Protocol for the Transmission of Multi-Protocol Datagrams Over Point-to-Point Links (https://tools.ietf.org/html/rfc1171) 
