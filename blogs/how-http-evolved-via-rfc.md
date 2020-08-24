@@ -2,7 +2,7 @@
 title: How Http Evolved Via Rfc
 tags: http,fromMd
 slug: how-http-evolved-via-rfc
-intro: from md Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+intro: This is an introduction on how various RFCs were requested and changed Http Protocol
 ---
 
 ### Timelines:
